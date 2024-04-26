@@ -10,7 +10,7 @@ export default function SocialFollow() {
   return (
     <>
       <div class="social-container">
-      <h3>Social Follow</h3>
+      <h3>Social Media Accounts</h3>
       <a href="https://www.youtube.com/channel/UC0mGUZyCyziG6nPQE7udi7g" target="_blank" rel="noopener noreferrer"
         className="youtube social">
         <FontAwesomeIcon icon={faYoutube} size="2x" />
